@@ -1,6 +1,8 @@
 # Olá, me chamo Diego ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
+![Snake animation](https://github.com/diegosantiago92/diegosantiago92/blob/output/github-contribution-grid-snake.svg)
+
 <div>
 <a href="https://github.com/diegosantiago92">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosantiago92&layout=compact&langs_count=7&theme=dracula"/>
